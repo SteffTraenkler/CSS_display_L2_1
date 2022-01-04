@@ -7,6 +7,3 @@ article{
     display: inline-block;
 }
 
-li:first-child::before{
-    content: "✉️";
-}
